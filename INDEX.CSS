@@ -1,0 +1,31 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    color:#f5f3f3;
+    background-color:#05080a;
+    text-align: center;
+    border: 60px solid #234862;
+    border-top: 0px;
+    border-bottom: 15px;
+    margin: 0px;
+
+}
+p{
+    color: #f1eded;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 0px;
+}
+#sub{
+    background-color: coral;
+    border-radius: 20px;
+    height: 60px;
+    width: 120px;
+}
+h2{
+    margin-bottom: 30px;
+}
+.Sign{
+ padding: bottom 0px; 
+}
+
